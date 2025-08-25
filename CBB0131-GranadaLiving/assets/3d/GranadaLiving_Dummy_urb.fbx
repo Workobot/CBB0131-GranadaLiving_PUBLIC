@@ -9,10 +9,10 @@ FBXHeaderExtension:  {
 		Year: 2025
 		Month: 8
 		Day: 25
-		Hour: 9
-		Minute: 50
-		Second: 14
-		Millisecond: 44
+		Hour: 12
+		Minute: 45
+		Second: 2
+		Millisecond: 763
 	}
 	Creator: "FBX SDK/FBX Plugins version 2020.3.4"
 	OtherFlags:  {
@@ -31,8 +31,8 @@ FBXHeaderExtension:  {
 			Comment: ""
 		}
 		Properties70:  {
-			P: "DocumentUrl", "KString", "Url", "", "C:\Workobot\WKT001-PropsLibrary_HD\PropsLibrary_HD\Assets\429ieyn7_GranadaLiving_Dummy_urb.fbx"
-			P: "SrcDocumentUrl", "KString", "Url", "", "C:\Workobot\WKT001-PropsLibrary_HD\PropsLibrary_HD\Assets\429ieyn7_GranadaLiving_Dummy_urb.fbx"
+			P: "DocumentUrl", "KString", "Url", "", "C:\Workobot\WKT001-PropsLibrary_HD\PropsLibrary_HD\Assets\rlp43nh5_GranadaLiving_Dummy_urb.fbx"
+			P: "SrcDocumentUrl", "KString", "Url", "", "C:\Workobot\WKT001-PropsLibrary_HD\PropsLibrary_HD\Assets\rlp43nh5_GranadaLiving_Dummy_urb.fbx"
 			P: "Original", "Compound", "", ""
 			P: "Original|ApplicationVendor", "KString", "", "", ""
 			P: "Original|ApplicationName", "KString", "", "", "Unity FBX Exporter"
@@ -78,7 +78,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2699182608768, "Scene", "Scene" {
+	Document: 2703614282240, "Scene", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -223,7 +223,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 2700005979104, "Geometry::Scene", "Mesh" {
+	Geometry: 2700005981344, "Geometry::Scene", "Mesh" {
 		Vertices: *24 {
 			a: -50,-50,50,50,-50,50,-50,50,50,50,50,50,-50,50,-50,50,50,-50,-50,-50,-50,50,-50,-50
 		} 
@@ -332,7 +332,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2703582935952, "Model::GranadaLiving_Dummy_urb", "Null" {
+	Model: 2703582931952, "Model::GranadaLiving_Dummy_urb", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -343,7 +343,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2703582929952, "Model::Cube", "Mesh" {
+	Model: 2703582947952, "Model::Cube", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -351,13 +351,13 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",3024.169921875,2215.90003967285,3205.64002990723
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",44.7623252868652,44.0388717651367,9.55074596405029
+			P: "Lcl Translation", "Lcl Translation", "", "A",3011.54003143311,2215.90003967285,3214.04991149902
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",46.0241165161133,44.0388717651367,11.4022846221924
 		}
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2703582937952, "Model::Cube__3_", "Mesh" {
+	Model: 2703582949952, "Model::Cube__3_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -365,13 +365,13 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",-614.239978790283,707.270002365112,3177.79006958008
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",20.9345035552979,13.8672542572021,11.0912246704102
+			P: "Lcl Translation", "Lcl Translation", "", "A",-630.060005187988,707.270002365112,3177.79006958008
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",22.9915904998779,13.8672542572021,11.0912246704102
 		}
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2703582943952, "Model::Cube__1_", "Mesh" {
+	Model: 2684548993744, "Model::Cube__1_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -379,13 +379,13 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",1176.93996429443,2215.90003967285,-3542.9500579834
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",40.8711242675781,44.0388717651367,10.6798324584961
+			P: "Lcl Translation", "Lcl Translation", "", "A",1176.93996429443,2215.90003967285,-3578.5400390625
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",40.8711242675781,44.0388717651367,12.1037044525146
 		}
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Model: 2703582939952, "Model::Cube__2_", "Mesh" {
+	Model: 2684548979744, "Model::Cube__2_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -393,14 +393,14 @@ Objects:  {
 			P: "InheritType", "enum", "", "",1
 			P: "ScalingMax", "Vector3D", "Vector", "",0,0,0
 			P: "DefaultAttributeIndex", "int", "Integer", "",0
-			P: "Lcl Translation", "Lcl Translation", "", "A",-292.880010604858,2215.90003967285,-143.939995765686
+			P: "Lcl Translation", "Lcl Translation", "", "A",-292.709994316101,2215.90003967285,-60.1599991321564
 			P: "Lcl Rotation", "Lcl Rotation", "", "A",-0,-90.0000305175781,0
-			P: "Lcl Scaling", "Lcl Scaling", "", "A",48.8802299499512,44.0388717651367,11.4063262939453
+			P: "Lcl Scaling", "Lcl Scaling", "", "A",50.5568199157715,44.0388717651367,13.3782052993774
 		}
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Material: 2701828531392, "Material::DefaultHDMaterial", "" {
+	Material: 2693069487792, "Material::DefaultHDMaterial", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -422,43 +422,43 @@ Objects:  {
 Connections:  {
 	
 	;Model::GranadaLiving_Dummy_urb, Model::RootNode
-	C: "OO",2703582935952,0
+	C: "OO",2703582931952,0
 	
 	;Model::Cube, Model::GranadaLiving_Dummy_urb
-	C: "OO",2703582929952,2703582935952
+	C: "OO",2703582947952,2703582931952
 	
 	;Model::Cube__3_, Model::GranadaLiving_Dummy_urb
-	C: "OO",2703582937952,2703582935952
+	C: "OO",2703582949952,2703582931952
 	
 	;Model::Cube__1_, Model::GranadaLiving_Dummy_urb
-	C: "OO",2703582943952,2703582935952
+	C: "OO",2684548993744,2703582931952
 	
 	;Model::Cube__2_, Model::GranadaLiving_Dummy_urb
-	C: "OO",2703582939952,2703582935952
+	C: "OO",2684548979744,2703582931952
 	
 	;Material::DefaultHDMaterial, Model::Cube
-	C: "OO",2701828531392,2703582929952
+	C: "OO",2693069487792,2703582947952
 	
 	;Geometry::Scene, Model::Cube
-	C: "OO",2700005979104,2703582929952
+	C: "OO",2700005981344,2703582947952
 	
 	;Material::DefaultHDMaterial, Model::Cube__3_
-	C: "OO",2701828531392,2703582937952
+	C: "OO",2693069487792,2703582949952
 	
 	;Geometry::Scene, Model::Cube__3_
-	C: "OO",2700005979104,2703582937952
+	C: "OO",2700005981344,2703582949952
 	
 	;Material::DefaultHDMaterial, Model::Cube__1_
-	C: "OO",2701828531392,2703582943952
+	C: "OO",2693069487792,2684548993744
 	
 	;Geometry::Scene, Model::Cube__1_
-	C: "OO",2700005979104,2703582943952
+	C: "OO",2700005981344,2684548993744
 	
 	;Material::DefaultHDMaterial, Model::Cube__2_
-	C: "OO",2701828531392,2703582939952
+	C: "OO",2693069487792,2684548979744
 	
 	;Geometry::Scene, Model::Cube__2_
-	C: "OO",2700005979104,2703582939952
+	C: "OO",2700005981344,2684548979744
 }
 ;Takes section
 ;----------------------------------------------------
